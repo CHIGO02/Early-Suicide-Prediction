@@ -1,5 +1,5 @@
 # 🧠 Early Suicide Prediction (Excel-Based)
-
+![Image](https://github.com/user-attachments/assets/bb31cbfb-863f-4900-88a5-249b2b406109)
 This project focuses on predicting early signs of suicidal tendencies using Excel-based data analysis. The analysis is built around key psychological, academic, and social indicators to help identify individuals who may be at risk of suicide, enabling timely intervention and support.
 
 ## 📌 Objective
