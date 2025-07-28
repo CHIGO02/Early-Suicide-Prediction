@@ -32,3 +32,4 @@ Each of these features is numerically or categorically encoded to support filter
 ## 📁 Project Structure
 comit
 
+i am open to collaborate  on data analysis and visualisation related projects via email amarametestimony5787@gmail.com
